@@ -2,11 +2,15 @@ h1{
 	color: #5C6AC4;
 }
 h4 {border-style: outset;}
-li{border-style: outset;}
+
+div
+{border-style:outset; 
+  margin: 20px;
+}
 
 
 
-#Habitat{border-style: outset;}
+
   
 #Habitat{
   font-size: 15px;
@@ -14,5 +18,6 @@ li{border-style: outset;}
 
 body {background-color: lightblue;}
 #Habitat {background-color: White;}
+div {background-color:white;}
 
 li {background-color: White;}
